@@ -14,4 +14,4 @@
 - **报告与追溯：** 导出 HTML / JSON 报告，保存源码输入、题目配置和版本信息，便于定位失败与复现问题。
 - **持续回归：** 使用 HTTP Mock 验证平台链路与故障场景，并通过固定版本的真实 C++ OJ 联调；GitHub Actions 运行回归并归档报告。
 
-> 本页仅展示项目介绍，项目源码保留在私有仓库中。
+项目源码：[oj-test-platform](https://github.com/zhzgg123-pixel/oj-test-platform)。
